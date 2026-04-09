@@ -5,7 +5,6 @@ services:
     container_name: mysql-server
     restart: always
     environment:
-      # Use a password you'll remember
       MYSQL_ROOT_PASSWORD: Creation96_
       MYSQL_DATABASE: lab_db
       MYSQL_USER: bangz
