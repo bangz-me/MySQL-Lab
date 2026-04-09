@@ -1,6 +1,5 @@
 data/
-mysql_data/
 portainer_data/
-*.log
+*.env
 
 
