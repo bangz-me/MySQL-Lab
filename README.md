@@ -1,4 +1,4 @@
-# MySQL DevOps Lab
+# MySQL Lab
 
 This project demonstrates a containerized MySQL environment managed via Portainer, providing a high-visibility orchestration interface similar to the Microsoft Azure portal.
 
